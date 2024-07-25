@@ -1,0 +1,19 @@
+.left{
+    height: 370px;
+    width: 50%;
+    float: left;
+    background-image: url(nature.avif);
+    background-size: cover;
+}
+.right{
+    color: mediumvioletred;
+    width: 49.8%;
+    float: right;
+    height: 370px;
+    text-align: justify;
+}
+.para{
+    color: darkorchid;
+    clear: both;
+    text-align: justify;
+}
